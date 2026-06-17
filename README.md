@@ -10,13 +10,13 @@ This project analyzes **156k+ passenger records** to uncover hidden patterns dri
 ## 📊 Dashboard Previews
 
 ### 1. Customer Overview & Satisfaction
-![Page 1 Previews](images/page1.png)
+![Page 1 Previews](page1.png)
 
 ### 2. Customer Experience Analysis
-![Page 2 Previews](images/page2.png)
+![Page 2 Previews](page2.png)
 
 ### 3. Loyalty vs Satisfaction & Risk Segmentation
-![Page 3 Previews](images/page3.png)
+![Page 3 Previews](page3.png)
 
 ---
 
